@@ -1,2 +1,3 @@
-# TweetEntityLinking
-An Attention Factor Graph Model for Tweet Entity Linking
+# Coming Soon...
+The code and data will be released before the end of May 2018
+
